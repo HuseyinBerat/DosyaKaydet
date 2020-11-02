@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4ht/wvcrdyw8e88cM07xR8ggHtE55u6Yf0HralSgqe0RS97Vu05lmVL25c/8aZQ+GAK9VNq6RbleFKHQvzmfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+C:\Users\Pc\source\repos\JsonIleDosyaKaydetmek\JsonIleDosyaKaydetmek\bin\Debug\netcoreapp3.1\JsonIleDosyaKaydetmek.exe
+C:\Users\Pc\source\repos\JsonIleDosyaKaydetmek\JsonIleDosyaKaydetmek\obj\Debug\netcoreapp3.1\JsonIleDosyaKaydetmek.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\JsonIleDosyaKaydetmek\JsonIleDosyaKaydetmek\obj\Debug\netcoreapp3.1\JsonIleDosyaKaydetmek.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\JsonIleDosyaKaydetmek\JsonIleDosyaKaydetmek\obj\Debug\netcoreapp3.1\JsonIleDosyaKaydetmek.AssemblyInfo.cs
