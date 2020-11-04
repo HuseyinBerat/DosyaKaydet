@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj": {}
+    "C:\\Users\\Berat\\source\\repos\\JsonIleDosyaKaydet\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj": {
+    "C:\\Users\\Berat\\source\\repos\\JsonIleDosyaKaydet\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\source\\repos\\JsonIleDosyaKaydet\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj",
         "projectName": "JsonIleDosyaKaydetmek",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek\\obj\\",
+        "projectPath": "C:\\Users\\Berat\\source\\repos\\JsonIleDosyaKaydet\\JsonIleDosyaKaydetmek\\JsonIleDosyaKaydetmek.csproj",
+        "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berat\\source\\repos\\JsonIleDosyaKaydet\\JsonIleDosyaKaydetmek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
